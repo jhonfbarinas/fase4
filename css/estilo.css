@@ -33,7 +33,7 @@ footer{
     text-align: center;
 }
 .color{
-    color: rgb(226, 137, 47);
+    color: rgb(25, 233, 188);
 }
 /* seleccion de estilos para el menu */
 .menu{
@@ -54,7 +54,7 @@ nav ul{
     align-items: center;
     justify-content: center;
     color: white; 
-    background: chocolate;
+    background: rgb(18, 30, 196);
     height: 25px;
     text-decoration: none;
 }
@@ -65,7 +65,7 @@ nav ul{
     display: block;
 }
 .menu a:hover{
-    background: blueviolet;
+    background: rgb(15, 148, 189);
     color: #fff;
 }
 iframe{
